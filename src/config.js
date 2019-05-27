@@ -1,1 +1,1 @@
-export const baseURL = "http://localhost/sssd/auth";
+export const baseURL = "https://sssd-api.herokuapp.com/auth";
